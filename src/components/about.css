@@ -1,0 +1,36 @@
+.about-section{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL5hcSb4R2YChCNyujnONKNi3El9cX4BQNakLDuXaIMPaGHXh8k3G0Peb606kn9fO7-cg&usqp=CAU) no-repeat left;
+    background-size: 50%;
+    background-color: whitesmoke;
+    overflow: hidden;
+    padding: 100px 0;
+}
+
+.inner-container{
+    width: 25%;
+    float: right;
+    background-color: white;
+    padding: 150px;
+}
+
+.inner-container h1{
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.text{
+    font-size: 13px;
+    color: #545454;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+
+.skills{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    font-size: 13px;
+}
+
